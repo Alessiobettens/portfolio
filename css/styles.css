@@ -140,10 +140,15 @@ p {
 
 .project-card span {
   display: inline-block;
-  margin: 15px 5px 15px 15px;
+  margin: 10px 5px 10px 10px;
   padding: 5px 10px;
   background: #0078d4;
   color: white;
   border-radius: 20px;
   font-size: 0.8rem;
+}
+
+.project-link {
+  text-decoration: none;
+  color: inherit;
 }
